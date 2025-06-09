@@ -1,25 +1,32 @@
 {
-  "posts": [
+  "general`": [
     {
-      "id": 1,
-      "title": "Good morning"
+      "id": "time",
+      "title": "10:00 AM - 22:00 PM"
     },
      {
-      "id": 2,
-      "title": "Good Afternoon"
+      "id": "fee",
+      "title": "Rs.300"
     }
   ],
-  "doctorsList": [
+  "doctorsInfo": [
     {
-      "id": "Ravi",
-      "timing": "5:00 PM - 8:00 PM"
+      "id": "Dr. Ravi",
+      "timing": "5:00 PM - 8:00 PM",
+	  "Specialization": "General Physician",
+	  "fee": "Rs.300"
     },
       {
-      "id": "Bala",
-      "timing": "10:00 PM - 2:00 PM"
+      "id": "Dr. Bala",
+      "timing": "10:00 PM - 2:00 PM",
+	  "Specialization": "Cardialogy",
+	  "fee": "Rs.1500"
+    },
+	 {
+      "id": "Dr. Priya",
+      "timing": "11:00 PM - 1:00 PM",
+	  "Specialization": "Dentist",
+	  "fee": "Rs.600"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
