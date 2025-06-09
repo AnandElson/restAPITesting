@@ -9,6 +9,16 @@
       "title": "Good Afternoon"
     }
   ],
+  "doctors": [
+    {
+      "name": "Ravi",
+      "timing": "5:00 PM - 8:00 PM"
+    },
+      {
+      "name": "Bala",
+      "timing": "10:00 PM - 2:00 PM"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
