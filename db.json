@@ -9,7 +9,7 @@
       "title": "Good Afternoon"
     }
   ],
-  "doctors": [
+  "doctorsList": [
     {
       "id": "Ravi",
       "timing": "5:00 PM - 8:00 PM"
