@@ -11,11 +11,11 @@
   ],
   "doctors": [
     {
-      "name": "Ravi",
+      "id": "Ravi",
       "timing": "5:00 PM - 8:00 PM"
     },
       {
-      "name": "Bala",
+      "id": "Bala",
       "timing": "10:00 PM - 2:00 PM"
     }
   ],
